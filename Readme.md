@@ -25,23 +25,6 @@ I enjoy exploring different programming paradigms and creating everything from g
 - 🖥️ Frontend Development
 - 🧩 Problem Solving & Algorithms
 
-## 🎯 Featured Projects
-
-### 🎮 [Bomberman DOM](https://github.com/aminehabchi/bomberman-dom)
-A multiplayer Bomberman game built with a custom JavaScript framework. Features real-time gameplay and interactive DOM manipulation.
-
-### ⚡ [Mini Framework](https://github.com/aminehabchi/mini-framework)
-A lightweight front-end JavaScript framework built from scratch. This project demonstrates my understanding of modern web development principles and framework architecture.
-
-### 💬 [TCP Chat](https://github.com/aminehabchi/TCP-CHAT)
-A TCP server implementation in Go for real-time chat functionality. Showcases network programming and concurrent programming concepts.
-
-## 📊 GitHub Stats
-
-![Amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminehabchi&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aminehabchi&layout=compact&theme=radical)
-
 ## 🌱 Currently Learning
 
 - Advanced JavaScript patterns and frameworks
