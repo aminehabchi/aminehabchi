@@ -38,50 +38,22 @@ and exploring different programming paradigms.
 
 ## 📊 Quick Facts
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### 🎯 Achievements
-- ✅ **500+** LeetCode problems solved
-- 🚀 Building scalable applications
-- 🎯 Clean code advocate
-- 🌱 Continuous learner
+| 🎯 **Achievements** | 🔥 **Focus Areas** | 📈 **Stats** |
+|:---:|:---:|:---:|
+| ✅ **500+** LeetCode Problems | 🎮 Game Development | 🏆 Problem Solver |
+| 🚀 Scalable Applications | 🌐 Web Development | 💻 Multi-Language |
+| 🎯 Clean Code Advocate | 🔧 System Programming | 🌱 Fast Learner |
+| 🔄 Continuous Learning | 🧩 Algorithm Design | 🤝 Team Player |
 
-</td>
-<td width="50%">
-
-### 🔥 Focus Areas
-- 🎮 **Game Development**
-- 🌐 **Web Development** 
-- 🔧 **System Programming**
-- 🧩 **Algorithms**
-
-</td>
-</tr>
-</table>
-
-## 🎓 Currently Learning
-
-```mermaid
-graph LR
-    A[🦀 Advanced Rust] --> B[🐳 Docker]
-    B --> C[🔧 Go Backend]
-    C --> D[🏗️ System Design]
-    D --> E[🌍 Open Source]
-```
-
-- 🦀 Advanced Rust programming
-- 🐳 Docker containerization  
-- 🔧 Backend development with Go
-- 🏗️ System design and architecture
-- 🌍 Open-source contributions
-
----
+</div>
 
 <div align="center">
 
 ### 💡 *"Always ready for new challenges and collaborative projects!"*
+
+> *"Code is like humor. When you have to explain it, it's bad."* - Cory House
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aminehabchi&color=brightgreen&style=for-the-badge)
 
