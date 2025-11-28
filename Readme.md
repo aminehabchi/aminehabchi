@@ -65,14 +65,7 @@
   <img src="https://streak-stats.demolab.com?user=AmineHabchi&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
----
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmineHabchi&theme=gruvbox&column=4&margin-w=15&margin-h=15&no-bg=true&rank=-C" />
-</p>
-
----
 
 ## 📬 Contact Me
 <p>
