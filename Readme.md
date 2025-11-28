@@ -8,7 +8,7 @@
 🎓 **Currently exploring advanced software development and compilers**  
 💼 Experience building real-time apps, frameworks, and web platforms  
 🧠 Always learning new technologies, solving challenging problems  
-🌍 Focused on Go, JavaScript, React, Rust, and WebRTC/WebSocket  
+🌍 Focused on Go, Java, JavaScript, React, Rust, and WebSocket  
 
 ---
 
@@ -72,7 +72,7 @@
   <a href="https://www.linkedin.com/in/amine-habchi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:aminehabchi@example.com">
+  <a href="mailto:amine.habchi.01@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
