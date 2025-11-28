@@ -5,7 +5,7 @@
 
 ---
 
-🎓 **Currently exploring advanced software development and compilers**  
+🎓 **Currently exploring advanced software development**  
 💼 Experience building real-time apps, frameworks, and web platforms  
 🧠 Always learning new technologies, solving challenging problems  
 🌍 Focused on Go, Java, JavaScript, React, Rust, and WebSocket  
