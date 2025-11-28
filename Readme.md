@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20to%20my%20GitHub!&fontAlign=50&fontAlignY=40&color=gradient"/>
 
 <h1 align="center">Hi there 👋, I'm Amine Habchi</h1>
-<h3 align="center">Software Developer | Go & Full-Stack Enthusiast | Open Source Contributor</h3>
+<h3 align="center">Full-Stack Developer | Go & Js & Ts & Java & Rust</h3>
 
 ---
 
