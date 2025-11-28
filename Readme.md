@@ -50,42 +50,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
----
 
-## 📌 Featured Projects
-
-### 💬 [Real-Time Chat App](https://github.com/yourusername/realtime-chat)
-🚀 A full-featured chat application with WebSocket, rooms, typing indicators, and online users.  
-**Tech:** Go · Socket.IO · React · Tailwind CSS · PostgreSQL
-
-Key Features:
-- Rooms & private messaging  
-- Typing & online status indicators  
-- Full stack using Go backend and React frontend  
-
----
-
-### 🎮 [Bomberman Game](https://github.com/yourusername/bomberman)
-🎮 Classic Bomberman game built with JavaScript & HTML5 Canvas  
-**Tech:** JavaScript · HTML5 Canvas · Node.js  
-
-Key Features:
-- Multiplayer support  
-- Power-ups and bombs mechanics  
-- Responsive design  
-
----
-
-### ⚙️ [Compiler Project](https://github.com/yourusername/compiler-project)
-🛠 Building your own programming language compiler  
-**Tech:** Rust · Go  
-
-Key Features:
-- Lexical & syntax analysis  
-- Bytecode generation  
-- Modular compiler architecture  
-
----
 
 ## 📈 GitHub Stats
 <div align="center">
