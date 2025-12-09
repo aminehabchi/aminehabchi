@@ -52,22 +52,6 @@
 </p>
 
 
-
-## 📈 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmineHabchi&show_icons=true&theme=dark&hide_border=false&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmineHabchi&layout=compact&theme=dark&hide_border=false" />
-</div>
-
----
-
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AmineHabchi&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
-
-
-
 ## 📬 Contact Me
 <p>
   <a href="https://www.linkedin.com/in/amine-habchi/">
